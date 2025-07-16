@@ -26,7 +26,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#FF6F00;
 }
 a:focus {
   outline: thin dotted;
@@ -107,7 +107,7 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(237, 203, 90,.8); 
+  background: rgba(161, 122, 39,.8); 
   padding:25px;
   color:#FFFFFF; 
 }
