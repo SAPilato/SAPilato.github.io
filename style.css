@@ -109,7 +109,7 @@ body {
 header, #content, footer { 
   background: rgba(161, 122, 39,0); 
   padding:25px;
-  color:##0a0927; 
+  color:#0a0927; 
 }
 iframe {
   max-width:100%;
@@ -126,10 +126,10 @@ ul.main-menu {
 }
 ul.main-menu li a {
   margin-right:20px;
-  font-size:2.0rem;
+  font-size:3.0rem;
   border-bottom: solid transparent 3px;
   color:#cfd2da;
-  font-family: 'MyCustomFont';
+  font-family: 'DreamcastFont';
 }
 ul.main-menu li a:hover {
   color:#FFFFFF;
