@@ -129,6 +129,7 @@ ul.main-menu li a {
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
   color:#cfd2da;
+  font-family: 'MyCustomFont';
 }
 ul.main-menu li a:hover {
   color:#FFFFFF;
