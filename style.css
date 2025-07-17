@@ -97,7 +97,7 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-html, #container, .inner { background-color: rgba(230, 223, 207,0.7);}
+html, #container, .inner { background-color: rgba(110, 108, 104,0.6);}
 html {
   background-color: #0a0927;
   background:url(background.gif) center center no-repeat fixed;
