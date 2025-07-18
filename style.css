@@ -118,6 +118,7 @@ iframe {
 
 /* Menu Links */
 ul.main-menu {
+  background: rgba(46, 46, 66,0.6); 
   margin: 0;
   padding: 0;
   display: flex;
