@@ -112,7 +112,7 @@ blockquote p:last-child {
 html, #container, .inner { background-color: rgba(46, 46, 66,0.0);}
 html {
   background-color: #0a0927;
-  background:url(background.gif) center center no-repeat fixed;
+  /*background:url(background.gif) center center no-repeat fixed;*/
   background-size:cover;
 }
 body {
