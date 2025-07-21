@@ -115,7 +115,7 @@ body {
   margin:25px auto;
 }
 #content, footer { 
-  background: rgba(0, 54, 54,0.6); 
+  background: rgba(252,201,14,0.6); 
   padding:25px;
   color:#FFFFFF; 
 }
@@ -125,7 +125,7 @@ iframe {
 
 /* Menu Links */
 ul.main-menu {
-  background: rgba(0, 54, 54,0.6); 
+  background: rgba(252,201,14,0.6); 
   margin: 0;
   padding: 25px;
   display: flex;
