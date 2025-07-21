@@ -38,7 +38,9 @@ b {
   color:#cfd2da;
   font-family: 'DreamcastFont';
 }
-
+b:focus {
+  outline: thin dotted;
+}
 small {
   font-size: 75%;
 }
@@ -147,7 +149,20 @@ ul.main-menu li a.active {
   color:#FFFFFF;
   border-bottom-color:#EF6D3D;
 }
-
+ul.main-menu li b {
+  margin-right:20px;
+  font-size:3.0rem;
+  border-bottom: solid transparent 3px;
+  color:#cfd2da;
+  font-family: 'DreamcastFont';
+}
+ul.main-menu li b:hover {
+  color:#FFFFFF;
+}
+ul.main-menu li b.active {
+  color:#FFFFFF;
+  border-bottom-color:#EF6D3D;
+}
 /* Utility classes */
 .hide {
   display:none;
