@@ -139,7 +139,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color:#05061a;
+  border-bottom-color:#ed8432;
 }
 /* Utility classes */
 .hide {
