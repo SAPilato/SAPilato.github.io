@@ -25,23 +25,12 @@ body {
  * Links
  */
 a {
+  font-size:2.0rem;
   font-weight: normal;
   text-decoration: none; 
-  color:#FF6F00;
+  color:#05061a;
 }
 a:focus {
-  outline: thin dotted;
-}
-b {
-  font-weight: normal;
-  text-decoration: none;
-  margin-right:20px;
-  font-size:2.0rem;
-  border-bottom: solid transparent 3px;
-  color:#cfd2da;
-  font-family: 'DreamcastFont';
-}
-b:focus {
   outline: thin dotted;
 }
 small {
@@ -149,20 +138,6 @@ ul.main-menu li a:hover {
   color:#FFFFFF;
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
-  border-bottom-color:#EF6D3D;
-}
-ul.main-menu li b {
-  margin-right:20px;
-  font-size:3.0rem;
-  border-bottom: solid transparent 3px;
-  color:#cfd2da;
-  font-family: 'DreamcastFont';
-}
-ul.main-menu li b:hover {
-  color:#FFFFFF;
-}
-ul.main-menu li b.active {
   color:#FFFFFF;
   border-bottom-color:#EF6D3D;
 }
