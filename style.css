@@ -1,7 +1,10 @@
 /**
  * Typography & Text styles
  */
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
   background-color: #0a0927;
